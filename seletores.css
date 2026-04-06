@@ -1,0 +1,21 @@
+header {
+    background-color: #02417c;
+    padding: 20px;
+    text-align: center;
+}
+.caixa {
+    border: 1px solid #203366;
+    border-radius: 10px ;
+    padding: 20px;
+    margin-right: 150px;
+    list-style: none;
+}
+footer {
+    background-color: #02417c;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
